@@ -1,6 +1,6 @@
 __Email__: [grao@berkeley.edu](grao@berkeley.edu)  
 __Phone__: +1-734-846-7754  
-_Office__:  
+__Office__:  
 Room F653, Faculty Building (Haas)
 Room 507, Evans Hall (Economics) 
 
